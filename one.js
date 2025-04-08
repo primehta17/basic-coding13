@@ -9,7 +9,7 @@ console.log(fahrenheit(55));
 // Enter a celsius value: 55
 // 55 degree celsius is equal to 131 degree fahrenheit.
 
-
+// celsius = (fahrenheit - 32) / 1.8
 function celsius(fahren){
     return (fahren - 32)/1.8;
 }
